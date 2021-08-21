@@ -11,7 +11,7 @@ export default function Main(){
         <BrowserRouter>
         <Switch>
             <Route exact path="/"   render={(props) => <Scroll {...props} data={Data} />}/>
-            <Route exact path={'/healthyrecipies'} render={(props) => <SubCategory  {...props}/> }  /> 
+            <Route exact path={'/healthyrecipies'} render={(props) => <SubCategory  {...props} data={Data[0].recipies}/> }  /> 
             {/* <Route exact path={'/snacksrecipies'} render={(props) => <Subcat  {...props}/> }  /> 
             <Route exact path={'/healthyrecipies'} render={(props) => <Subcat  {...props}/> }  /> 
             <Route exact path={'/healthyrecipies'} render={(props) => <Subcat  {...props}/> }  /> 
