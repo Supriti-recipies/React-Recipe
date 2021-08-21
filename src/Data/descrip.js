@@ -639,6 +639,7 @@ export const Data = [
     imgsrc: "../images/snackrecipies/Chicken Sub Sandwich.jpg",
     name: "Snack Recipe",
     info: "Snack Recipies is those recipies which tooks as a light wieght food and it is ready in less time",
+    link: "/snackrecipies",
     recipies: [
       {
         subid: 1,

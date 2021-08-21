@@ -21,7 +21,7 @@ export default function RecipeSection(props) {
                 <div className="col-md-1"></div>
                     <div className="col-md-3">
                         <div className="container-fluid">
-                            <img className="img-responsive2 navLogo imgStyle" src={props.imgsrc}/>
+                            <img alt={props.title} className="img-responsive2 navLogo imgStyle" src={props.imgsrc}/>
                         </div>
                     </div>
                     <div className="col-md-1"></div>
