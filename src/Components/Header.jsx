@@ -52,8 +52,8 @@ const HeaderComponent = React.memo(({ searchInput, setSearchInputValue }) => {
                 </li>
                 <ul
                   style={{
-                    paddingLeft: 0,
-                    width: "230px",
+                    paddingLeft: "3px",
+                    width: "232px",
                     display: "flex",
                     justifyContent: "space-between",
                     alignItems: "center",
