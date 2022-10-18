@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "gh-pages -b master -d build",
+    "build": "gh-pages -b v2 -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
