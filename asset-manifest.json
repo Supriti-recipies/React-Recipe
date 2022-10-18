@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Recipe/static/css/main.fc5b578e.chunk.css",
+    "main.js": "/React-Recipe/static/js/main.dc106061.chunk.js",
+    "main.js.map": "/React-Recipe/static/js/main.dc106061.chunk.js.map",
+    "runtime-main.js": "/React-Recipe/static/js/runtime-main.18936bdf.js",
+    "runtime-main.js.map": "/React-Recipe/static/js/runtime-main.18936bdf.js.map",
+    "static/js/2.e292cd62.chunk.js": "/React-Recipe/static/js/2.e292cd62.chunk.js",
+    "static/js/2.e292cd62.chunk.js.map": "/React-Recipe/static/js/2.e292cd62.chunk.js.map",
+    "static/js/3.493d3f1b.chunk.js": "/React-Recipe/static/js/3.493d3f1b.chunk.js",
+    "static/js/3.493d3f1b.chunk.js.map": "/React-Recipe/static/js/3.493d3f1b.chunk.js.map",
+    "index.html": "/React-Recipe/index.html",
+    "static/css/main.fc5b578e.chunk.css.map": "/React-Recipe/static/css/main.fc5b578e.chunk.css.map",
+    "static/js/2.e292cd62.chunk.js.LICENSE.txt": "/React-Recipe/static/js/2.e292cd62.chunk.js.LICENSE.txt",
+    "static/media/logo.3fe43ae0.png": "/React-Recipe/static/media/logo.3fe43ae0.png",
+    "static/media/Header.scss": "/React-Recipe/static/media/navbg2.1e80d614.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18936bdf.js",
+    "static/js/2.e292cd62.chunk.js",
+    "static/css/main.fc5b578e.chunk.css",
+    "static/js/main.dc106061.chunk.js"
+  ]
+}
